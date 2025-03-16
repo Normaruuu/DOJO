@@ -1,1 +1,1 @@
-Crypto Challenge
+Cryptography Challenge
