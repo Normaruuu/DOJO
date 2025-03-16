@@ -1,6 +1,6 @@
 id: example
 name: Cryptography Dojo
-type: hidden
+type: course
 award:
   emoji: 😀
 image: pwncollege/challenge-simple
