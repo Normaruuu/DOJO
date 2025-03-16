@@ -1,7 +1,7 @@
 # hello
-## apple
+## Cryotography
 
-This challenge is named `apple`, and is located within module `hello`.
+This challenge is named `Cryptography`, and is located within module `hello`.
 
 When users start this challenge, their environment will have:
 - `/flag`
