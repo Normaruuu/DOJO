@@ -1,6 +1,4 @@
-name: Hello
+name: Cryptography
 challenges:
   - id: apple
-    name: Apple
-  - id: banana
-    name: Banana
+    name: Cryptography
